@@ -1,3 +1,15 @@
+## 修改记录
+
+main 分支
+
+- 删除 zelikk 的博客引流
+- 替换 crazypeace 的 github.io 为自己的项目
+
+gh-pages 分支
+
+- 删除 card-footer 中的 Fork me 字样
+- 替换 crazypeace 的 github.io 为自己的项目
+
 # 演示
 https://1ladder.eu.org/6H4wjH
 
